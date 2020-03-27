@@ -1,0 +1,15 @@
+C:\Users\vorob\source\repos\Article\Article\bin\Debug\Article.exe.config
+C:\Users\vorob\source\repos\Article\Article\bin\Debug\Article.exe
+C:\Users\vorob\source\repos\Article\Article\bin\Debug\Article.pdb
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.csprojAssemblyReference.cache
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\App.g.cs
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article_MarkupCompile.cache
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article_MarkupCompile.lref
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\MainWindow.baml
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.g.resources
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.Properties.Resources.resources
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.csproj.GenerateResource.cache
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.csproj.CoreCompileInputs.cache
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.exe
+C:\Users\vorob\source\repos\Article\Article\obj\Debug\Article.pdb

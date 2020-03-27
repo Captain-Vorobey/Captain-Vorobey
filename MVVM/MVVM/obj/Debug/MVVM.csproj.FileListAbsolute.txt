@@ -1,0 +1,3 @@
+C:\Users\vorob\source\repos\MVVM\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+C:\Users\vorob\source\repos\MVVM\MVVM\obj\Debug\App.g.cs
+C:\Users\vorob\source\repos\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
